@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-ghghghghjhj
-=======
-ghghghgher
->>>>>>> 653e898a52d411ad708913622ea889ce86ffe87a
